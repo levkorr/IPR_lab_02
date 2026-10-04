@@ -1,0 +1,28 @@
+﻿commit 71388364daaed399b9232d6b14dd266024104a88 (HEAD -> main, origin/main)
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+    решил конфликт
+
+commit be1e4b2f55caf0c5e95eaaf61c2b10b99d684078
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:07:20 2026 +0300
+
+    изменение 4 строки снова
+
+commit 4759225cd97470180a7f0e7df13524200905269e
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:06:19 2026 +0300
+
+    изменение 4 строки
+
+commit 5bfac1e715c72c99356313fbd7719d096632f7dd
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 15:50:26 2026 +0300
+
+    добавил сожержание 3 строки
+
+commit 03f06f982781cb19dd959eac386667aa40b31b4a
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 15:47:50 2026 +0300
