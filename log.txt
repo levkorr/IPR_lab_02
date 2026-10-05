@@ -1,4 +1,214 @@
-﻿commit 71388364daaed399b9232d6b14dd266024104a88 (HEAD -> main, origin/main)
+﻿commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+    решил конфликт
+
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+    решил конфликт
+
+commit be1e4b2f55caf0c5e95eaaf61c2b10b99d684078
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:07:20 2026 +0300
+
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+    решил конфликт
+
+commit be1e4b2f55caf0c5e95eaaf61c2b10b99d684078
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:07:20 2026 +0300
+
+    изменение 4 строки снова
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+    решил конфликт
+
+commit be1e4b2f55caf0c5e95eaaf61c2b10b99d684078
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:07:20 2026 +0300
+
+    изменение 4 строки снова
+
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+    решил конфликт
+
+commit be1e4b2f55caf0c5e95eaaf61c2b10b99d684078
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:07:20 2026 +0300
+
+    изменение 4 строки снова
+
+commit 4759225cd97470180a7f0e7df13524200905269e
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+    решил конфликт
+
+commit be1e4b2f55caf0c5e95eaaf61c2b10b99d684078
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:07:20 2026 +0300
+
+    изменение 4 строки снова
+
+commit 4759225cd97470180a7f0e7df13524200905269e
+Author: levkor <lev@fossko.ru>
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+    решил конфликт
+
+commit be1e4b2f55caf0c5e95eaaf61c2b10b99d684078
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:07:20 2026 +0300
+
+    изменение 4 строки снова
+
+commit 4759225cd97470180a7f0e7df13524200905269e
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:06:19 2026 +0300
+
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+    решил конфликт
+
+commit be1e4b2f55caf0c5e95eaaf61c2b10b99d684078
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:07:20 2026 +0300
+
+    изменение 4 строки снова
+
+commit 4759225cd97470180a7f0e7df13524200905269e
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:06:19 2026 +0300
+
+    изменение 4 строки
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
+Merge: 4759225 be1e4b2
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:09:15 2026 +0300
+
+    решил конфликт
+
+commit be1e4b2f55caf0c5e95eaaf61c2b10b99d684078
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:07:20 2026 +0300
+
+    изменение 4 строки снова
+
+commit 4759225cd97470180a7f0e7df13524200905269e
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:06:19 2026 +0300
+
+    изменение 4 строки
+
+:
+commit 18a074ea14a784a04a7f95842d402a48690a4bc6 (HEAD -> main, origin/main)
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 16:18:53 2026 +0300
+
+    сдача дз
+
+commit 71388364daaed399b9232d6b14dd266024104a88
 Merge: 4759225 be1e4b2
 Author: levkor <lev@fossko.ru>
 Date:   Sun Oct 4 16:09:15 2026 +0300
@@ -26,3 +236,11 @@ Date:   Sun Oct 4 15:50:26 2026 +0300
 commit 03f06f982781cb19dd959eac386667aa40b31b4a
 Author: levkor <lev@fossko.ru>
 Date:   Sun Oct 4 15:47:50 2026 +0300
+
+    Добавил содержание 3 строки
+
+commit 562a44658791bc602d8a0fcee39fede05b66191d
+Author: levkor <lev@fossko.ru>
+Date:   Sun Oct 4 15:44:33 2026 +0300
+
+    first commit
